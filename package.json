@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "consul": "^0.40.0",
-    "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#1d85fc44dbf39a6f743974c975fdaf874783750a"
+    "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#cf8a3a8ee6d6fc1a4b644a1107a01099d10e3464"
   },
   "devDependencies": {
     "eslint": "^7.30.0",
