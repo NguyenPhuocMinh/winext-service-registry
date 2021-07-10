@@ -1,12 +1,15 @@
 {
   "name": "app-service-registry",
   "version": "1.0.0",
-  "description": "",
+  "description": "Building service registry with consul",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "consul",
+    "winext"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
