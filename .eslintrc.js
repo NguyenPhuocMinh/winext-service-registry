@@ -37,6 +37,9 @@ module.exports = {
       'error',
       'unix'
     ],
+    'new-cap': ['error',
+      { properties: false }
+    ],
     'getter-return': [
       'error',
       {
